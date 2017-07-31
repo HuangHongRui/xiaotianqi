@@ -1,0 +1,26 @@
+{
+  "name": "xiaotianqi",
+  "version": "3.0.0",
+  "description": "The weather tool in your Command line | 一个简单的天气预报",
+  "repository" : {
+    "type" : "git",
+    "url" : "http://github.com/HuangHongRui/xiaotianqi"
+  },
+  "main": "index.js",
+  "bin": {
+    "tq": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weather",
+    "tianqi",
+    "天气"
+  ],
+  "author": "HuangHongRui",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.2"
+  }
+}
