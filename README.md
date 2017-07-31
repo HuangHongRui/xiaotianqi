@@ -1,6 +1,6 @@
 # xiaotianqi
 
----
+Npm包地址：[传送门](https://www.npmjs.com/package/xiaotianqi)
 
  一个简单的天气预报命令行.
 
@@ -15,7 +15,7 @@ Using npm:
 $ npm install xiaotianqi
 ```
 
----
+
 
 ## Keyboard
 
