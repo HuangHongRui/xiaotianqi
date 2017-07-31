@@ -1,6 +1,6 @@
 {
   "name": "xiaotianqi",
-  "version": "3.0.0",
+  "version": "5.5.5",
   "description": "The weather tool in your Command line | 一个简单的天气预报",
   "repository" : {
     "type" : "git",

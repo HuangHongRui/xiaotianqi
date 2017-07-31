@@ -4,7 +4,7 @@
 
  一个简单的天气预报命令行.
 
-![](image/xiaotianqi.png)
+![](https://github.com/HuangHongRui/xiaotianqi/raw/master/image/xiaotianqi.png)
 
 
 ## Installing
